@@ -73,6 +73,8 @@ used.
 ![Screenshot (84)](https://github.com/user-attachments/assets/56bbe3c8-6c78-4e17-8357-2fd30c173eab)
 
 
+
+
 #### Power Report:
 
 ![Screenshot (85)](https://github.com/user-attachments/assets/39141523-1659-4919-a731-6bc5b12c6c46)
